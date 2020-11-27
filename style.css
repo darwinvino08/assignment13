@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background: url(background.jpeg);
+  background-size: cover;
+
+
+}
+
+h1{
+  color: black;
+}
+.title{
+font-size:  3.5rem;
+font-weight: 900;
+  font-family: 'Indie Flower', cursive;
+}
+.content{
+font-size: 1.5rem;
+font-family: 'Roboto', sans-serif;
+
+font-weight: 900;
+margin-top: 50px;
+height:  300px;
+  text-align: center;
+
+
+
+
+}
